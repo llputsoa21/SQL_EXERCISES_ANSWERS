@@ -1,0 +1,2 @@
+# SQL_EXERCISES_ANSWERS
+Exercises for SQL 
