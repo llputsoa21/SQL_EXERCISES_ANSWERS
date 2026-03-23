@@ -1,2 +1,2 @@
 # SQL_EXERCISES_ANSWERS
-Exercises for SQL 
+Exercises for SQL Fundamentals
